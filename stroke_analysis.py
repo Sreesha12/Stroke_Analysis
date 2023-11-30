@@ -1,5 +1,5 @@
 # import libraries
-import pandas as pd, seaborn as sns, matplotlib.pyplot as plt, statsmodels.api as sm
+import pandas as pd, scipy.stats as sps, seaborn as sns, matplotlib.pyplot as plt, statsmodels.api as sm
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 
